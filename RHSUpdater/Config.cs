@@ -199,7 +199,6 @@ namespace RHSUpdater
             Globals.form.writeLog("LDG", "Récupération de l'API RHS...");
 
             loadValues();
-            System.Console.WriteLine(Properties.Settings.Default.versionAFRF + " " + Properties.Settings.Default.versionUSAF + " " + Properties.Settings.Default.versionGREF);
         }
 
         private void loadValues()
@@ -223,8 +222,9 @@ namespace RHSUpdater
                         return;
                 }
                 Globals.form.writeLog("INFO", "Répertoire trouvé !");
+                Properties.Settings.Default.Save();
                 Globals.form.writeLog("INFO", "Analyse des versions...");
-
+                
 
                 CheckVersions();
             }

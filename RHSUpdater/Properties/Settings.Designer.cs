@@ -34,41 +34,5 @@ namespace RHSUpdater.Properties {
                 this["pathArma"] = value;
             }
         }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string versionAFRF {
-            get {
-                return ((string)(this["versionAFRF"]));
-            }
-            set {
-                this["versionAFRF"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string versionUSAF {
-            get {
-                return ((string)(this["versionUSAF"]));
-            }
-            set {
-                this["versionUSAF"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string versionGREF {
-            get {
-                return ((string)(this["versionGREF"]));
-            }
-            set {
-                this["versionGREF"] = value;
-            }
-        }
     }
 }

@@ -1,3 +1,8 @@
+d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\obj\Debug\RHSUpdater.MainWindow.resources
+d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\obj\Debug\RHSUpdater.Properties.Resources.resources
+d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\obj\Debug\RHSUpdater.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\obj\Debug\RHSUpdater.exe
+d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\obj\Debug\RHSUpdater.pdb
 d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\bin\Debug\Resources\Updaters\update_rhsafrf.bat
 d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\bin\Debug\Resources\Updaters\update_rhsgref.bat
 d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\bin\Debug\Resources\Updaters\update_rhsusaf.bat
@@ -7,12 +12,11 @@ d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\bin\Debug\Resourc
 d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\bin\Debug\Resources\Updaters\libssl32.dll
 d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\bin\Debug\Resources\Updaters\wget.exe
 d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\bin\Debug\RHSUpdater.exe.config
+d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\bin\Debug\RHSUpdater.exe.manifest
+d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\bin\Debug\RHSUpdater.application
 d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\bin\Debug\RHSUpdater.exe
 d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\bin\Debug\RHSUpdater.pdb
 d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\bin\Debug\Newtonsoft.Json.dll
 d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\bin\Debug\Newtonsoft.Json.xml
-d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\obj\Debug\RHSUpdater.MainWindow.resources
-d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\obj\Debug\RHSUpdater.Properties.Resources.resources
-d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\obj\Debug\RHSUpdater.csproj.GenerateResource.Cache
-d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\obj\Debug\RHSUpdater.exe
-d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\obj\Debug\RHSUpdater.pdb
+d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\obj\Debug\RHSUpdater.exe.manifest
+d:\Documents\Visual Studio 2015\Projects\RHSUpdater\RHSUpdater\obj\Debug\RHSUpdater.application
